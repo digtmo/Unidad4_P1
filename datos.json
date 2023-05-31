@@ -1,0 +1,16 @@
+{
+    "name": "Jaime",
+    "edad": 34,
+    "soltero": false,
+    "habilidades":[
+        "Profesor",
+        "Desarrollador Web"
+    ],
+    "masCampos":{
+        "otro": true,
+        "array":[{
+            "anidameiento": true
+        }]
+    }
+
+}
